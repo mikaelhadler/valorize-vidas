@@ -1,0 +1,27 @@
+{
+  "name": "valorize-vidas",
+  "version": "1.0.0",
+  "description": "Sistema de apoio e prevenção ao suicídio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValorizeVidas/valorize-vidas.git"
+  },
+  "keywords": [
+    "social",
+    "suicide",
+    "depression",
+    "help",
+    "opensource",
+    "health"
+  ],
+  "author": "ValorizeVidas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ValorizeVidas/valorize-vidas/issues"
+  },
+  "homepage": "https://github.com/ValorizeVidas/valorize-vidas#readme"
+}
