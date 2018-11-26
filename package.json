@@ -1,7 +1,7 @@
 {
   "name": "valorize-vidas",
   "version": "0.1.0",
-  "private": true,
+  "author": "ValorizeVidas",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -9,6 +9,19 @@
     "test:unit": "vue-cli-service test:unit",
     "test:e2e": "vue-cli-service test:e2e"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValorizeVidas/valorize-vidas.git"
+  },  
+  "homepage": "https://github.com/ValorizeVidas/valorize-vidas#readme",  
+  "keywords": [
+    "social",
+    "suicide",
+    "depression",
+    "help",
+    "opensource",
+    "health"
+  ],
   "dependencies": {
     "vue": "^2.5.17",
     "vue-router": "^3.0.1"
