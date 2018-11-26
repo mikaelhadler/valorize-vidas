@@ -1,15 +1,19 @@
 {
   "name": "valorize-vidas",
-  "version": "1.0.0",
-  "description": "Sistema de apoio e prevenção ao suicídio",
-  "main": "index.js",
+  "version": "0.1.0",
+  "author": "ValorizeVidas",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "test:unit": "vue-cli-service test:unit",
+    "test:e2e": "vue-cli-service test:e2e"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ValorizeVidas/valorize-vidas.git"
-  },
+  },  
+  "homepage": "https://github.com/ValorizeVidas/valorize-vidas#readme",  
   "keywords": [
     "social",
     "suicide",
@@ -18,10 +22,25 @@
     "opensource",
     "health"
   ],
-  "author": "ValorizeVidas",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ValorizeVidas/valorize-vidas/issues"
+  "dependencies": {
+    "vue": "^2.5.17",
+    "vue-router": "^3.0.1"
   },
-  "homepage": "https://github.com/ValorizeVidas/valorize-vidas#readme"
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.3",
+    "@vue/cli-plugin-e2e-cypress": "^3.0.3",
+    "@vue/cli-plugin-eslint": "^3.0.3",
+    "@vue/cli-plugin-unit-jest": "^3.0.3",
+    "@vue/cli-service": "^3.0.3",
+    "@vue/eslint-config-airbnb": "^4.0.0",
+    "@vue/test-utils": "^1.0.0-beta.20",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-eslint": "^10.0.1",
+    "babel-jest": "^23.6.0",
+    "eslint": "^5.8.0",
+    "eslint-plugin-vue": "^5.0.0-0",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.1",
+    "vue-template-compiler": "^2.5.17"
+  }
 }
