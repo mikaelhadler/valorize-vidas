@@ -12,7 +12,7 @@ Abaixo estão as instruções de como utilizar o projeto em ambiente de desenvol
 
 ### Pré Requisitos
 
-O que é necessário para rodar o projeto ?
+O que é necessário para rodar o projeto?
 
 ```
 Node.Js 8.x
@@ -20,12 +20,12 @@ Node.Js 8.x
 
 ### Instalando
 
-Para rodar o projeto em ambiente de desenvolvimento, basta executarr os passos abaixo
+Para rodar o projeto em ambiente de desenvolvimento, basta executar os passos abaixo
 
 Faça a instalação das dependências
 
 ```
-npm run install
+npm install
 ```
 
 Faça a execução do projeto:
@@ -34,11 +34,11 @@ Faça a execução do projeto:
 npm run serve
 ```
 
-Feito isso, você poderá acessar a aplicação no endereço 'localhost:8080'.
+Feito isso, você poderá acessar a aplicação no endereço 'http://localhost:8080'.
 
 ## Rodando os testes
 
-Para rodar os testes unitários, basta executarr o comando abaixo:
+Para rodar os testes unitários, basta executar o comando abaixo:
 
 ```
 npm run test:unit
@@ -46,7 +46,7 @@ npm run test:unit
 
 ### Rodando os testes de integração
 
-Para rodar os testes e2e, basta executar o comndo abaixo:
+Para rodar os testes e2e, basta executar o comando abaixo:
 
 ```
 npm run test:e2e
@@ -70,7 +70,7 @@ Neste projeto, utilizamos o style guide baseado no [airbnb](https://github.com/a
 npm run build
 ```
 
-## Contruído com 
+## Construído com 
 
 * [Bulma](https://bulma.io/) - Framework de UI components
 * [Vue](https://vuejs.org/) - Framework de renderização
@@ -78,7 +78,7 @@ npm run build
 
 ## Contribuição
 
-Por favor leia o [CONTRIBUTING.md](CONTRIBUTING.md) para mais detalhe do processo de produção, dúvidas ou sugestões, enviar via pull request.
+Por favor leia o [CONTRIBUTING.md](CONTRIBUTING.md) para mais detalhes do processo de produção, dúvidas ou sugestões, enviar via pull request.
 
 ## Versionamento
 
