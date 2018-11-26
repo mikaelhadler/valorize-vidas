@@ -7,13 +7,15 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "test:unit": "vue-cli-service test:unit",
-    "test:e2e": "vue-cli-service test:e2e"
+    "test:e2e": "vue-cli-service test:e2e",
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ValorizeVidas/valorize-vidas.git"
-  },  
-  "homepage": "https://github.com/ValorizeVidas/valorize-vidas#readme",  
+  },
+  "homepage": "https://github.com/ValorizeVidas/valorize-vidas#readme",
   "keywords": [
     "social",
     "suicide",
@@ -34,6 +36,7 @@
     "@vue/cli-service": "^3.0.3",
     "@vue/eslint-config-airbnb": "^4.0.0",
     "@vue/test-utils": "^1.0.0-beta.20",
+    "all-contributors-cli": "^5.4.1",
     "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "^10.0.1",
     "babel-jest": "^23.6.0",
