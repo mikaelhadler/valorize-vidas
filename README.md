@@ -19,7 +19,7 @@ Node.Js 8.x
 
 ### Instalando
 
-Para rodar o projeto em ambiente de desenvolvimento, basta executar os passos abaixo
+Para rodar o projeto em ambiente de desenvolvimento, basta executarr os passos abaixo
 
 Faça a instalação das dependências
 
@@ -30,31 +30,44 @@ npm run install
 Faça a execução do projeto:
 
 ```
-npm run install
+npm run serve
 ```
 
 Feito isso, você poderá acessar a aplicação no endereço 'localhost:8080'.
 
 ## Rodando os testes
 
-Para rodar os testes unitários, basta executar o comando abaixo:
+Para rodar os testes unitários, basta executarr o comando abaixo:
 
 ```
-npm run unit
+npm run test:unit
 ```
 
-### Break down into end to end tests
+### Rodando os testes de integração
 
-Para rodar os testes end to end, basta executa o comndo abaixo:
+Para rodar os testes e2e, basta executar o comndo abaixo:
 
 ```
-npm run e2e
+npm run test:e2e
+```
+
+### Rodando o eslint
+
+Para rodar o eslint, basta executar o comndo abaixo:
+
+```
+npm run test:e2e
 ```
 
 ### Style Guide
 
 Neste projeto, utilizamos o style guide baseado no [airbnb](https://github.com/airbnb/javascript).
 
+
+### Para compilar e minificar arquivos para produção 
+```
+npm run build
+```
 
 ## Contruído com 
 
@@ -76,3 +89,4 @@ Nós utilizamos o [GitFlow](https://medium.com/trainingcenter/utilizando-o-fluxo
 ## Licensa
 
 Este projeto utiliza a licença MIT - olhe no arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+
