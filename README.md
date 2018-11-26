@@ -77,7 +77,7 @@ npm run build
 
 ## Contribuição
 
-Por favor leia o [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) para mais detalhe do processo de produção, dúvidas ou sugestões, enviar via pull request.
+Por favor leia o [CONTRIBUTING.md](CONTRIBUTING.md) para mais detalhe do processo de produção, dúvidas ou sugestões, enviar via pull request.
 
 ## Versionamento
 
