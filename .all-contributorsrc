@@ -16,7 +16,9 @@
       "profile": "http://mikaelhadler.com.br",
       "contributions": [
         "code",
-        "doc"
+        "doc",
+        "review",
+        "test"
       ]
     }
   ]

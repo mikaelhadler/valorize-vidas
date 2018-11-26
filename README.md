@@ -98,7 +98,7 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-| [<img src="https://avatars1.githubusercontent.com/u/6784777?v=4" width="100px;"/><br /><sub><b>Mikael Hadler</b></sub>](http://mikaelhadler.com.br)<br />[💻](https://github.com/ValorizeVidas/valorize-vidas/commits?author=mikaelhadler "Code") [📖](https://github.com/ValorizeVidas/valorize-vidas/commits?author=mikaelhadler "Documentation") |
+| [<img src="https://avatars1.githubusercontent.com/u/6784777?v=4" width="100px;"/><br /><sub><b>Mikael Hadler</b></sub>](http://mikaelhadler.com.br)<br />[💻](https://github.com/ValorizeVidas/valorize-vidas/commits?author=mikaelhadler "Code") [📖](https://github.com/ValorizeVidas/valorize-vidas/commits?author=mikaelhadler "Documentation") [👀](#review-mikaelhadler "Reviewed Pull Requests") [⚠️](https://github.com/ValorizeVidas/valorize-vidas/commits?author=mikaelhadler "Tests") |
 | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
