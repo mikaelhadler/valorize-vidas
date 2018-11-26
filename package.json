@@ -7,7 +7,9 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "test:unit": "vue-cli-service test:unit",
-    "test:e2e": "vue-cli-service test:e2e"
+    "test:e2e": "vue-cli-service test:e2e",
+    "predeploy": "CI=1 npm i cypress; npm test",
+    "deploy": "npm run build"
   },
   "repository": {
     "type": "git",
