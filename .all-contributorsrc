@@ -30,7 +30,8 @@
         "code",
         "doc",
         "review",
-        "test"
+        "test",
+        "infra"
       ]
     }
   ]
