@@ -30,7 +30,18 @@
         "code",
         "doc",
         "review",
-        "test"
+        "test",
+        "question",
+        "blog",
+        "bug",
+        "eventOrganizing",
+        "example",
+        "ideas",
+        "infra",
+        "talk",
+        "translation",
+        "tutorial",
+        "video"
       ]
     }
   ]
