@@ -90,7 +90,7 @@ Este projeto utiliza a licença MIT - olhe no arquivo [LICENSE.md](LICENSE.md) p
 
 ## Contribuidores
 
-Um muito obrigado a essas pessoas maravilhosas :sparkling_heart: ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+Um muito obrigado a essas pessoas maravilhosas :sparkling_heart: :
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
