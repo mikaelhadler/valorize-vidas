@@ -12,7 +12,7 @@ Abaixo estão as instruções de como utilizar o projeto em ambiente de desenvol
 
 ### Pré Requisitos
 
-O que é necessário para rodar o projeto ?
+O que é necessário para rodar o projeto?
 
 ```
 Node.Js 8.x
@@ -25,7 +25,7 @@ Para rodar o projeto em ambiente de desenvolvimento, basta executar os passos ab
 Faça a instalação das dependências
 
 ```
-npm run install
+npm install
 ```
 
 Faça a execução do projeto:
@@ -34,7 +34,7 @@ Faça a execução do projeto:
 npm run serve
 ```
 
-Feito isso, você poderá acessar a aplicação no endereço 'localhost:8080'.
+Feito isso, você poderá acessar a aplicação no endereço 'http://localhost:8080'.
 
 ## Rodando os testes
 
@@ -84,17 +84,13 @@ Por favor leia o [CONTRIBUTING.md](CONTRIBUTING.md) para mais detalhe do process
 
 Nós utilizamos o [GitFlow](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04) para o versionamento. Para utilizar versões anteriores veja as [tags neste repositorio](https://github.com/valorizevidas/valorize-vidas/tags). 
 
-## Contribuidores
-
-
 ## Licensa
 
 Este projeto utiliza a licença MIT - olhe no arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
+## Contribuidores
 
-## Contributors
-
-Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+Um muito obrigado a essas pessoas maravilhosas :sparkling_heart: ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
