@@ -33,6 +33,19 @@
         "test",
         "infra"
       ]
+    },
+    {
+      "login": "jtlimo",
+      "name": "Jessica Lima",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/4023304?v=4",
+      "profile": "https://github.com/jtlimo",
+      "contributions": [
+        "question",
+        "code",
+        "doc",
+        "review",
+        "test"
+      ]
     }
   ]
 }
