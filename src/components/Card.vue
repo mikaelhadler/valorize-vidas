@@ -1,7 +1,9 @@
 <template>
   <div>
     <label :for="title">
-        <font-awesome-icon :icon="icon" />
+        <font-awesome-icon
+          v-if="icon"
+          :icon="icon" />
       {{ title }}
     </label>
   </div>
@@ -9,7 +11,6 @@
 <script>
 export default {
   name: 'Card',
-  props: ['title', 'icon', 'bgColor']
-}
+  props: ['title', 'icon', 'bgColor'],
+};
 </script>
-

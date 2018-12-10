@@ -1,16 +1,22 @@
 <template>
   <div id="app">
-    <Container/>
+    <NavBar
+      v-if="false"/>
+      <Footer />
+    <!-- <Container/> -->
     <router-view/>
+
   </div>
 </template>
 <script>
-import NavBar from '@/components/NavBar.vue'
-import Container from '@/components/Container.vue'
+import NavBar from '@/components/NavBar.vue';
+import Footer from '@/components/Footer.vue';
+
+
 export default {
   components: {
     NavBar,
-    Container
-  }
-}
+    Footer
+  },
+};
 </script>
