@@ -1,8 +1,7 @@
 <template>
   <div id="app">
-    <NavBar
-      v-if="false"/>
-      <Footer />
+    <NavBar/>
+    <Footer/>
     <!-- <Container/> -->
     <router-view/>
 
@@ -11,6 +10,7 @@
 <script>
 import NavBar from '@/components/NavBar.vue';
 import Footer from '@/components/Footer.vue';
+import Bulma from 'bulma';
 
 
 export default {
@@ -20,3 +20,4 @@ export default {
   },
 };
 </script>
+
