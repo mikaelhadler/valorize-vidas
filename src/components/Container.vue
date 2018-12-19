@@ -1,67 +1,66 @@
 <template>
-<section class="hero is-fullheight">
-  <div class="hero-body">
+<div>
+  <section>
     <div class="container">
       <div class="columns">
-        <div class="column is-6">
-          <div class="logo">
-            <img src="../assets/logo-horizontal.svg" alt="">
+        <div class="column is-4">
+          <figure class="logo">
+            <img src="../assets/logo-horizontal.svg" alt="Valorize Vidas">
+          </figure>
+        </div>
+        <div class="column is-4">
+          <div class="mensagem">
+            <p>Pode ficar tranquilo que podemos te ajudar. Entre em contato com a gente da forma como preferir</p>
           </div>
         </div>
-        <div class="column is-6">
-            <div class="message">
-            Pode ficar tranquilo que podemos
-            te ajudar. Entre em contato com a gente
-            da forma como preferir
-          </div>
-        </div>
-
       </div>
       <div class="columns">
-        <div class="column is-6">
-          <div class="ajuda">
-            <h1>Precisa de Ajuda ?</h1>
-            <div class="">
-              <Card
-                :title="'chat'"
-                :icon="['fa', 'comments']"
-                :bgColor="'#F38C18'"
-                />
-              <Card
-                :title="'ligue 188'"
-                :icon="['fa', 'comments']"
-                :bgColor="'#F38C18'"
-                />
-            </div>
-            <div class="">
-              <Card
-                :title="'e-mail'"
-                :bgColor="'#F38C18'"
-                />
-              <Card
-                :title="'endereços'"
-                :bgColor="'#F38C18'"
-                />
-            </div>
-          </div>
+        <div class="column">
+          <Card
+          :title="'Chat'"
+          :icon="'comments-regular'"
+          :bgColor="'#F38C18'"
+          />
         </div>
-        <div class="column is-6">
-          <h1>Quer ajudar ?</h1>
-            <Card
-              :title="'chat'"
-              :icon="['fa', 'comments']"
-              :bgColor="'#F38C18'"
-              />
-            <Card
-              :title="'ligue 188'"
-              :icon="['fa', 'comments']"
-              :bgColor="'#F38C18'"
-              />
-          </div>
+        <div class="column">
+          <Card
+          :title="'Ligue 188'"
+          :icon="'mobile-alt-solid'"
+          :bgColor="'#F38C18'"
+          />
         </div>
+        <div class="column">
+          <Card
+          :title="'Contribuir'"
+          :icon="'hand-holding-usd-solid'"
+          :bgColor="'#E8AE28'"
+          />
+        </div>
+        <div class="column">
+          <Card
+          :title="'Voluntariar'"
+          :icon="'hand-holding-heart-solid'"
+          :bgColor="'#F7C248'"
+          />
+        </div>
+      </div>
+      <div class="columns">
+        <div class="column is-3">
+          <Card
+          :title="'Email'"
+          :bgColor="'#F38C18'"
+          />
+        </div>
+        <div class="column">
+          <Card
+          :title="'Endereços'"
+          :bgColor="'#F38C18'"
+          />
+        </div>
+      </div>
     </div>
-  </div>
-</section>
+  </section>
+</div>
 </template>
 <script>
 import Card from '@/components/Card.vue';
