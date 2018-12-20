@@ -92,6 +92,17 @@
         "ideas",
         "talk"
       ]
+    },
+    {
+      "login": "GustavoRPS",
+      "name": "Gustavo RPS",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/516827?v=4",
+      "profile": "http://gustavorps.net",
+      "contributions": [
+        "financial",
+        "ideas",
+        "review"
+      ]
     }
   ]
 }
