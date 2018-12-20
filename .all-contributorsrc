@@ -81,6 +81,28 @@
         "eventOrganizing",
         "ideas"
       ]
+    },
+    {
+      "login": "mandyellow",
+      "name": "Amanda Yoshiizumi",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/30158643?v=4",
+      "profile": "https://www.behance.net/amandayoshiizumi",
+      "contributions": [
+        "design",
+        "ideas",
+        "talk"
+      ]
+    },
+    {
+      "login": "GustavoRPS",
+      "name": "Gustavo RPS",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/516827?v=4",
+      "profile": "http://gustavorps.net",
+      "contributions": [
+        "financial",
+        "ideas",
+        "review"
+      ]
     }
   ]
 }
