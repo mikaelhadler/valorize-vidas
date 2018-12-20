@@ -68,6 +68,19 @@
         "ideas",
         "talk"
       ]
+    },
+    {
+      "login": "gabriel-cg",
+      "name": "Gabriel Correia Gonçalves",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/18426794?v=4",
+      "profile": "https://github.com/gabriel-cg",
+      "contributions": [
+        "code",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "ideas"
+      ]
     }
   ]
 }
