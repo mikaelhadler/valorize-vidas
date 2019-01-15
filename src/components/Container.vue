@@ -5,7 +5,7 @@
       <div class="columns">
         <div class="column is-4">
           <figure class="logo">
-            <img src="../assets/logo-horizontal.svg" alt="Valorize Vidas">
+            <img src="../assets/images/logo-horizontal.svg" alt="Valorize Vidas">
           </figure>
         </div>
         <div class="column is-4">
