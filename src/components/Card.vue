@@ -1,7 +1,7 @@
 <template>
   <div class="card-valorize" v-bind:style = "{'background-color': bgColor}">
     <figure class="icone" v-if="icon">
-      <img :src="require(`@/assets/${icon}.svg`)">
+      <img :src="require(`@/assets/icons/${icon}.svg`)">
     </figure>
     <label :for="title">
       {{ title }}
