@@ -1,0 +1,108 @@
+{
+  "projectName": "valorize-vidas",
+  "projectOwner": "ValorizeVidas",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "mikaelhadler",
+      "name": "Mikael Hadler",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6784777?v=4",
+      "profile": "http://mikaelhadler.com.br",
+      "contributions": [
+        "code",
+        "doc",
+        "review",
+        "test"
+      ]
+    },
+    {
+      "login": "iagocavalcante",
+      "name": "Iago Cavalcante",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5131187?v=4",
+      "profile": "https://iagocavalcante.github.io",
+      "contributions": [
+        "code",
+        "doc",
+        "review",
+        "test",
+        "infra"
+      ]
+    },
+    {
+      "login": "jtlimo",
+      "name": "Jessica Lima",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/4023304?v=4",
+      "profile": "https://github.com/jtlimo",
+      "contributions": [
+        "question",
+        "code",
+        "doc",
+        "review",
+        "test"
+      ]
+    },
+    {
+      "login": "JhonGalante",
+      "name": "Jhonata Galante",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/16074925?v=4",
+      "profile": "https://github.com/JhonGalante",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "gradaelli",
+      "name": "gradaelli",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/45898090?v=4",
+      "profile": "https://github.com/gradaelli",
+      "contributions": [
+        "question",
+        "design",
+        "doc",
+        "ideas",
+        "talk"
+      ]
+    },
+    {
+      "login": "gabriel-cg",
+      "name": "Gabriel Correia Gonçalves",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/18426794?v=4",
+      "profile": "https://github.com/gabriel-cg",
+      "contributions": [
+        "code",
+        "design",
+        "doc",
+        "eventOrganizing",
+        "ideas"
+      ]
+    },
+    {
+      "login": "mandyellow",
+      "name": "Amanda Yoshiizumi",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/30158643?v=4",
+      "profile": "https://www.behance.net/amandayoshiizumi",
+      "contributions": [
+        "design",
+        "ideas",
+        "talk"
+      ]
+    },
+    {
+      "login": "GustavoRPS",
+      "name": "Gustavo RPS",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/516827?v=4",
+      "profile": "http://gustavorps.net",
+      "contributions": [
+        "financial",
+        "ideas",
+        "review"
+      ]
+    }
+  ]
+}
